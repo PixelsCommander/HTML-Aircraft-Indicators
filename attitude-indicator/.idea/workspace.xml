@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/attitude_indicator.css" description="background-image: url(./img/degrees.png);" line="51" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="28a720d2-919f-47dc-a0a5-695d27166974" name="Default" comment="" />
+    <ignored path="AltitudeIndicator.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/main.css" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1374431787719" ignored="false" />
+    <file path="/index.html" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255658908" ignored="false" />
+    <file path="/altitude_indicator.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1374440083245" ignored="false" />
+    <file path="/main.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375222426518" ignored="false" />
+    <file path="/altitude_indicator.css" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1374431335262" ignored="false" />
+    <file path="/attitude_indicator.css" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375653675579" ignored="false" />
+    <file path="/attitude_indicator.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376182110917" ignored="false" />
+    <file path="$USER_HOME$/Work/ITSea/2013/site/www/index.html" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375390386023" ignored="false" />
+    <file path="/a.dummy" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376254632464" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tpl/viewerWrapper.html" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375388001334" ignored="false" />
+    <file path="/viewerWrapper.html" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375388001334" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/styles/index.css" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375387989056" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/compiled/dev.lmd.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376335716652" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/iconManager.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375305345435" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/.lmd/dev.lmd.json" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375307289405" ignored="false" />
+    <file path="/dev.lmd.json" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375307290043" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tooliconmanager.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375306881109" ignored="false" />
+    <file path="/tooliconmanager.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375306929330" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/widget.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376335716652" ignored="false" />
+    <file path="/widget.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375385088490" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/toolsmanager.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375387936493" ignored="false" />
+    <file path="/toolsmanager.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375387934858" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/hand.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384286120" ignored="false" />
+    <file path="/hand.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384138457" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/measurement.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384280922" ignored="false" />
+    <file path="/measurement.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384168581" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/pencil.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384275337" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/zoomIn.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384290602" ignored="false" />
+    <file path="/zoomIn.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384210101" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/zoomOut.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384292987" ignored="false" />
+    <file path="$USER_HOME$/Work/Teempla-development/app/scripts/widgets/viewer/tools/zoomToFit.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384295380" ignored="false" />
+    <file path="/zoomOut.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384222775" ignored="false" />
+    <file path="/zoomToFit.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375384232451" ignored="false" />
+    <file path="/index.css" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375387987660" ignored="false" />
+    <file path="/Dummy.txt" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376336942443" ignored="false" />
+    <file path="/README.md" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1375636417296" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/assets/main-assets.json" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376256776229" ignored="false" />
+    <file path="/main-assets.json" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376256776229" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/js/lib/flash.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255081955" ignored="false" />
+    <file path="/flash.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255082307" ignored="false" />
+    <file path="$PROJECT_DIR$/../HTML:JS/FlashJS/src/utils/CoreUtils.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376241656136" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/js/objects/bonus.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376242104916" ignored="false" />
+    <file path="/bonus.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376242101696" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/football/js/gameapp.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376241868091" ignored="false" />
+    <file path="$PROJECT_DIR$/../HTML:JS/FlashJS/src/loading/AnimationLoader.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255234574" ignored="false" />
+    <file path="$PROJECT_DIR$/../HTML:JS/FlashJS/src/display-canvas/SpriteSheet.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255226318" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/index.html" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255658908" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/js/objects/field.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376255749551" ignored="false" />
+    <file path="$USER_HOME$/Work/Barton/src/soccer/js/objects/goalkeeper.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376336780989" ignored="false" />
+    <file path="/goalkeeper.js" changelist="28a720d2-919f-47dc-a0a5-695d27166974" time="1376256943711" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="AltitudeIndicator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/example/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="11" selection-start="801" selection-end="801" vertical-scroll-proportion="0.35725677">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attitude_indicator.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/attitude_indicator.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="76" column="30" selection-start="1832" selection-end="1832" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="attitude_indicator.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/attitude_indicator.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="226" column="52" selection-start="9163" selection-end="9163" vertical-scroll-proportion="-3.509091">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="61" selection-start="27" selection-end="72" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/attitude_indicator.css" />
+        <option value="$PROJECT_DIR$/css/main.css" />
+        <option value="$PROJECT_DIR$/js/altitude_indicator.css" />
+        <option value="$PROJECT_DIR$/js/altitude_indicator.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/js/attitude_indicator.css" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/js/attitude_indicator.js" />
+        <option value="$PROJECT_DIR$/js/attitude_indicator/attitude_indicator.js" />
+        <option value="$PROJECT_DIR$/js/attitude_indicator/attitude_indicator.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/example/index.html" />
+        <option value="$PROJECT_DIR$/src/attitude_indicator.css" />
+        <option value="$PROJECT_DIR$/src/attitude_indicator.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="12" />
+    <option name="y" value="22" />
+    <option name="width" value="1420" />
+    <option name="height" value="812" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AltitudeIndicator" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="example" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="FullScreen" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="PublishConfig">
+    <servers>
+      <server id="75cf560c-3c2b-44ff-b340-7b7e6f3abb8b">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </server>
+    </servers>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/img" />
+      <recent name="$PROJECT_DIR$/example" />
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/js/attitude_indicator/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28a720d2-919f-47dc-a0a5-695d27166974" name="Default" comment="" />
+      <created>1374426842933</created>
+      <updated>1374426842933</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="12" y="22" width="1420" height="812" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26055312" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="56" selection-start="672" selection-end="672" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="30" selection-start="1832" selection-end="1832" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="251" column="1" selection-start="9976" selection-end="9976" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="61" selection-start="27" selection-end="72" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="59" selection-start="531" selection-end="532" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="21" selection-start="281" selection-end="281" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="37" selection-start="37" selection-end="37" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="103" column="1" selection-start="1925" selection-end="1925" vertical-scroll-proportion="0.022522522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="146" selection-end="146" vertical-scroll-proportion="0.09009009" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/apple-touch-icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/css/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="30" selection-start="1832" selection-end="1832" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="61" selection-start="27" selection-end="72" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/attitude_indicator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="226" column="52" selection-start="9163" selection-end="9163" vertical-scroll-proportion="-3.509091">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="11" selection-start="801" selection-end="801" vertical-scroll-proportion="0.35725677">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

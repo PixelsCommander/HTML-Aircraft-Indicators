@@ -1,0 +1,117 @@
+.attitude_indicator__wrapper, .attitude_indicator__wrapperMoving {
+    width: 100%;
+    height: 100%;
+    position: relative;
+    -webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition: -webkit-transform .3s;
+    transition-timing-function: ease-out;
+    transition: transform .3s;
+}
+
+.attitude_indicator__wrapper {
+    overflow: hidden;
+}
+
+.attitude_indicator__absolute {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.attitude_indicator__half_screen {
+    left: -50%;
+    width: 200%;
+    height: 200%;
+}
+
+.attitude_indicator__ground {
+    top: 50%;
+    background-color: #ff7800;
+    transform-origin: 50% 100%;
+    -ms-transform-origin: 50% 100%; /* IE 9 */
+    -webkit-transform-origin: 50% 100%; /* Safari and Chrome */
+}
+
+.attitude_indicator__sky {
+    top: -150%;
+    background-color: #009cff;
+}
+
+.attitude_indicator__planeMark {
+    width: 80%;
+    margin: 0 10% 0 10%;
+    height: 100%;
+}
+
+.artificialHorizon__horizontalDegreesLine {
+    position: absolute;
+    top: 10%;
+    left: 0%;
+    background-image: url(./img/degrees.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-origin:padding-box;
+    width: 80%;
+    height: 50%;
+    margin-left: 10%;
+}
+
+.artificialHorizon__horizontalDegreesMark {
+    position: absolute;
+    top: 0%;
+    left: 50%;
+    background-image: url(./img/mark.png);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    background-origin:padding-box;
+    width: 5%;
+    margin-left: -2.5%;
+    height: 100%;
+    -webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition: -webkit-transform .3s;
+    transition-timing-function: ease-out;
+    transition: transform .3s;
+}
+
+.artificialHorizon__verticalMeasurementLine_container {
+    position: absolute;
+    top: 25%;
+    width: 100%;
+    height: 50%;
+    overflow: hidden;
+}
+
+.artificialHorizon__verticalMeasurementLine {
+    position: absolute;
+    width: 10%;
+    height: 100%;
+    margin-left: 45%;
+    -webkit-perspective: 1000;
+    -webkit-backface-visibility: hidden;
+    -webkit-transition-timing-function: ease-out;
+    -webkit-transition: -webkit-transform .3s;
+    transition-timing-function: ease-out;
+    transition: transform .3s;
+}
+
+.artificialHorizon__verticalMeasurementLine__verticalLine {
+    position: absolute;
+    height: 1px;
+    width: 50%;
+    margin-left: 25%;
+    border-bottom: 1px solid #ffffff;
+    opacity: 1;
+}
+
+.artificialHorizon__verticalMeasurementLine__label {
+    color: #ffffff;
+    margin-top: -15px;
+    margin-left: -40px;
+    font-weight: lighter;
+    font-family: Helvetica Neue, Arial;
+    font-size: 24px;
+}
