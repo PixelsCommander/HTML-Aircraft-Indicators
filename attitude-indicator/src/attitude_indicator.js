@@ -234,7 +234,7 @@ styleTag.type = 'text/css';
 head.appendChild(styleTag);
 
 window.AttitudeIndicator.path = src;
-window.AttitudeIndicator.iOS = ( navigator.userAgent.match(/(iPad|iPhone|iPod)/g) ? true : false );
+window.AttitudeIndicator.iOS = ( navigator.userAgent.match(/iP\w+/g) ? true : false );
 
 // Mozilla bind polyfill
 if (!Function.prototype.bind) {
