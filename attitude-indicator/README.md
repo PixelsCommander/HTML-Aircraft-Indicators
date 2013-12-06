@@ -1,4 +1,4 @@
-# [HTML5 Artificial Horizon](http://pixelscommander.com/polygon/attitudeindicator/)
+# [HTML5 Artificial Horizon](http://pixelscommander.com/polygon/attitudeindicator/example/)
 
 ## Quick start
 
